@@ -116,11 +116,11 @@ options-dashboard/
 
 ## Key Features
 
-- **Live data** — automatically fetches current price and historical volatility for any ticker
-- **Interactive sliders** — adjust volatility, interest rate, strike in real time
-- **Model comparison** — see Black-Scholes vs Monte Carlo side by side
-- **Scenario analysis** — option price matrix across spot × volatility combinations
-- **Implied volatility smile** — visualises the volatility surface by strike
+- **Live data** - automatically fetches current price and historical volatility for any ticker
+- **Interactive sliders** - adjust volatility, interest rate, strike in real time
+- **Model comparison** - see Black-Scholes vs Monte Carlo side by side
+- **Scenario analysis** - option price matrix across spot × volatility combinations
+- **Implied volatility smile** - visualises the volatility surface by strike
 
 ---
 
@@ -130,4 +130,4 @@ This project is for **educational purposes only** and does not constitute financ
 
 ---
 
-*Built by [Vraj-kishor Vyas](https://www.linkedin.com/in/vrajkishor-vyas/) — MEng Engineering student at the University of Nottingham*
+*Built by [Vraj-kishor Vyas](https://www.linkedin.com/in/vrajkishor-vyas/) — MEng Electronic and Computer Engineering student at the University of Nottingham*
