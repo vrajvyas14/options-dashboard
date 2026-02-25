@@ -16,11 +16,11 @@ A quantitative finance web application that prices equity options in real time u
 Input any stock ticker, strike price, and expiration date — the app pulls live market data and instantly calculates:
 
 - **Option price** via Black-Scholes and Monte Carlo simulation
-- **The Greeks** — Delta, Gamma, Theta, Vega, Rho
+- **The Greeks** - Delta, Gamma, Theta, Vega, Rho
 - **P&L diagram** showing payoff at expiry vs today's theoretical value
-- **Monte Carlo paths** — 10,000+ simulated future price trajectories
+- **Monte Carlo paths** - 10,000+ simulated future price trajectories
 - **3D Greek surfaces** across spot price and volatility dimensions
-- **Historical market data** — candlestick chart, returns distribution, rolling volatility
+- **Historical market data** - candlestick chart, returns distribution, rolling volatility
 
 ---
 
